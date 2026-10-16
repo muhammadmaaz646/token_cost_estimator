@@ -4,3 +4,4 @@ venv/
 __pycache__/
 *.pyc
 MAAZ-NOTES.md
+usage.db
